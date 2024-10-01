@@ -1,2 +1,2 @@
 # matlabDemoService
-het uitvoeren van matlab scrips
+het uitvoeren van matlab mock scripts
